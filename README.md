@@ -16,11 +16,11 @@ Since completing my degree, I’ve continued to develop my skills through both s
 
 ## 💡 Projects
 
-Here are a few things I’ve built recently — full details below!
+Here are a few things I’ve built recently — they can all be viewed via my [portfolio website](https://oyousaf.dev)!
 
-- 🚗 `ams`: A slick used car dealership SPA using Next.js
-- 👓 `pollards`: Appointment booking app with custom date picker logic
-- 🚲 `legxcy`: Full stack e-commerce app 
+- 🚗 `ams`: A slick used car dealership SPA developed using Next.js, Appwrite, Framer Motion and Tailwind
+- 🚲 `legxcy`: A full stack ecommerce app developed using the MERN Stack, Cloudinary and Stripe
+- 👓 `pollards`: A full stack appointment management system developed using Next.js, Appwrite, Twilio, TypeScript and Tailwind
 
 These projects reflect my ability to liaise with clients, interpret briefs, and deliver polished solutions that align with both functional and branding requirements.
 
