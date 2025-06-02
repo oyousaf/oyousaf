@@ -32,8 +32,8 @@ I’m currently seeking my **first professional role in web development**, where
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oyousaf)  
-- Portfolio: [oyousaf.dev](https://oyousaf.dev)
-- Email: o_yousaf@live.co.uk
+- [Portfolio](https://oyousaf.dev)
+- [Email](mailto:o_yousaf@live.co.uk)
 
 ---
 
