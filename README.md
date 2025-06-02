@@ -25,7 +25,7 @@ Here are a few things I’ve built recently — they can all be viewed via my [p
 
 These projects reflect my ability to liaise with clients, interpret briefs, and deliver polished solutions that align with both functional and branding requirements.
 
-I’m currently seeking my **first professional role in web development**, where I can contribute to a team environment, expand my technical expertise, and continue creating user-focused digital experiences.
+I’m currently seeking a exciting but challenging role within the sphere of web developement be it frontend or backend, where I can contribute to a team environment, expand my technical expertise, and continue creating user-focused digital experiences.
 
 ---
 
@@ -37,4 +37,4 @@ I’m currently seeking my **first professional role in web development**, where
 
 ---
 
-Thanks for stopping by! 🙏
+Thanks for stopping by! 🙏 🍉
