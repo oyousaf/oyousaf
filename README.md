@@ -19,7 +19,7 @@ Since completing my degree, I’ve continued to develop my skills through both s
 Here are a few things I’ve built recently — they can all be viewed via my [portfolio website](https://oyousaf.dev)!
 
 - 🚗 `ams`: A slick used car dealership SPA developed using Next.js, Appwrite, Framer Motion and Tailwind
-- 🚀 `astra-ai`: A web app for tracking job applications developed using Next.js, TypeScript, Tailwind, Framer Motion, Node.js, Prisma, PostgreSQL, Railway and Vercel
+- 💼 `astra-ai`: A web app for tracking job applications developed using Next.js, TypeScript, Tailwind, Framer Motion, Node.js, Prisma, PostgreSQL, Railway and Vercel
 - 🚲 `legxcy`: A full stack ecommerce app developed using the MERN Stack, Cloudinary and Stripe
 - 👓 `pollards`: A full stack appointment management system developed using Next.js, Appwrite, Twilio, TypeScript and Tailwind
 
