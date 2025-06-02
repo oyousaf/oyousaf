@@ -25,7 +25,7 @@ Here are a few things I’ve built recently — they can all be viewed via my [p
 
 These projects reflect my ability to liaise with clients, interpret briefs, and deliver polished solutions that align with both functional and branding requirements.
 
-I’m currently seeking a exciting but challenging role within the sphere of web developement be it frontend or backend, where I can contribute to a team environment, expand my technical expertise, and continue creating user-focused digital experiences.
+I am actively seeking a dynamic and challenging role in web development—whether frontend or backend—where I can collaborate within a team, further develop my technical skills, and continue building impactful, user-centered digital experiences.
 
 ---
 
