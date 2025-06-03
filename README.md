@@ -10,7 +10,7 @@ Since completing my degree, I’ve continued to develop my skills through both s
 
 - 💻 **Languages**: JavaScript, HTML5, CSS3
 - ⚛️ **Frontend**: React, Next.js, Tailwind CSS, Framer Motion
-- 🛠 **Backend & Tools**: Node.js, Appwrite, Express, Railway, Supabase, Neon, Vercel, MongoDB
+- 🛠 **Backend & Tools**: Node.js, Appwrite, Express, Railway, RESTful, Supabase, Neon, Vercel, MongoDB
 
 ---
 
