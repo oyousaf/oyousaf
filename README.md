@@ -9,7 +9,7 @@ Since completing my degree, I’ve continued to develop my skills through both s
 ## 🚀 Tech Stack
 
 - 💻 **Languages**: JavaScript, HTML5, CSS3
-- ⚛️ **Frontend**: React, Next.js, Tailwind CSS, Framer Motion
+- ⚛️ **Frontend**: React, Next.js, Vue, TypeScript, Tailwind CSS, Framer Motion
 - 🛠 **Backend & Tools**: Node.js, Appwrite, Express, Railway, RESTful, Supabase, Vercel, MongoDB
 - 👇 **State Management & Testing**: Zustand, Postman
 
