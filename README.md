@@ -1,6 +1,6 @@
 # Hey, I’m Omar 👋
 
-I'm a **Front-End Developer** with a Bachelor's degree in *Web Design & Technology*, dedicated to crafting responsive, accessible, and visually engaging websites and web applications that deliver genuine value to users.
+I'm a **Freelance Web Developer** dedicated to crafting responsive, accessible, and visually engaging websites and web applications that deliver genuine value to users.
 
 Since completing my degree, I’ve continued to develop my skills through both self-initiated projects and **freelance work for real clients**, producing production-ready websites tailored to specific business needs.
 
