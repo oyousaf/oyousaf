@@ -7,7 +7,6 @@ My work combines **thoughtful interface design, robust engineering, and consider
 Alongside developing my own projects, I work with **real clients to translate individual requirements and business objectives into effective web solutions**, taking projects from initial concept and technical planning through to implementation, refinement, and deployment.
 
 I continually expand my technical expertise through hands-on development, experimentation with modern technologies, and the practical demands of building software intended for real-world use.
----
 
 ## 🚀 Tech Stack
 
